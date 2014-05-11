@@ -1,0 +1,11 @@
+{
+    "name": "gossip",
+    "description": "Group's Feeds",
+    "version": "0.0.0",
+    "url": "https://github.com/Wusley/gossip",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
